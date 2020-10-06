@@ -1,4 +1,4 @@
-# Quantum-Computing-in-Qiskit
+# Quantum_Computing_in_Qiskit
 A collection of quantum computing exercises for coding in IBM's Qiskit platform.
 
 #### Exercise 1:
